@@ -19,3 +19,6 @@ Apresentação da equipe de profissionais da empresa, mostrando suas habilidades
 Contato:
 Informações de contato da empresa, incluindo formulário de contato, telefone e endereço físico, para facilitar a comunicação com os clientes.
 
+(TIVE DIFICULDADES PARA ADICIONAR O PWA. POR ESSE MOTIVO, DEMOREI PARA ENTREGAR
+)
+
